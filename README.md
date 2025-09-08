@@ -3,7 +3,7 @@
 Sou Guilherme Ayala Cysne, tenho 20 anos e estudo na Universidade Católica de Brasília, atualmente no 6 semestre cursando Engenharia de Software. Tenho interesse pela área de desenvolvimento web e busco melhorar dia após dia.
 
 - 🔭 Projeto atual: Uma Livraria
-- 🌱 Aprendendo: Javascript e ReactJS
+- 🌱 Aprendendo: ReactJS e Typescript 
 - 📫 Contatos: Gmail/LinkedIn
 
 <div><br>
